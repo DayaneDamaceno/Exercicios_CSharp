@@ -1,0 +1,6 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_09_Tabuada\obj\Debug\Exe_09_Tabuada.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_09_Tabuada\bin\Debug\Exe_09_Tabuada.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_09_Tabuada\bin\Debug\Exe_09_Tabuada.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_09_Tabuada\bin\Debug\Exe_09_Tabuada.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_09_Tabuada\obj\Debug\Exe_09_Tabuada.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_09_Tabuada\obj\Debug\Exe_09_Tabuada.pdb
