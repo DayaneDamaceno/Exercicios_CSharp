@@ -1,0 +1,6 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_11_Soma\bin\Debug\Exe_11_Soma.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_11_Soma\bin\Debug\Exe_11_Soma.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_11_Soma\bin\Debug\Exe_11_Soma.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_11_Soma\obj\Debug\Exe_11_Soma.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_11_Soma\obj\Debug\Exe_11_Soma.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_11_Soma\obj\Debug\Exe_11_Soma.pdb
