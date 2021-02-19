@@ -1,0 +1,6 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_02_ParOuImpar\bin\Debug\Exe_02_ParOuImpar.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_02_ParOuImpar\bin\Debug\Exe_02_ParOuImpar.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_02_ParOuImpar\bin\Debug\Exe_02_ParOuImpar.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_02_ParOuImpar\obj\Debug\Exe_02_ParOuImpar.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_02_ParOuImpar\obj\Debug\Exe_02_ParOuImpar.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_02_ParOuImpar\obj\Debug\Exe_02_ParOuImpar.pdb
