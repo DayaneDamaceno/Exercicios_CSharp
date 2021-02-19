@@ -1,0 +1,7 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_01_PrimeiroNome\bin\Debug\Exe_01_PrimeiroNome.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_01_PrimeiroNome\bin\Debug\Exe_01_PrimeiroNome.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_01_PrimeiroNome\bin\Debug\Exe_01_PrimeiroNome.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_01_PrimeiroNome\obj\Debug\Exe_01_PrimeiroNome.csprojAssemblyReference.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_01_PrimeiroNome\obj\Debug\Exe_01_PrimeiroNome.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_01_PrimeiroNome\obj\Debug\Exe_01_PrimeiroNome.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_01_PrimeiroNome\obj\Debug\Exe_01_PrimeiroNome.pdb
