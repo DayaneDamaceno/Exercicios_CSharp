@@ -1,0 +1,6 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_07_VerificaSpace\bin\Debug\Exe_07_VerificaSpace.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_07_VerificaSpace\bin\Debug\Exe_07_VerificaSpace.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_07_VerificaSpace\bin\Debug\Exe_07_VerificaSpace.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_07_VerificaSpace\obj\Debug\Exe_07_VerificaSpace.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_07_VerificaSpace\obj\Debug\Exe_07_VerificaSpace.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_07_VerificaSpace\obj\Debug\Exe_07_VerificaSpace.pdb
