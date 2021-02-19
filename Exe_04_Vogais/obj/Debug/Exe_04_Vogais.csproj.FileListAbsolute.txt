@@ -1,0 +1,7 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_04_Vogais\bin\Debug\Exe_04_Vogais.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_04_Vogais\bin\Debug\Exe_04_Vogais.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_04_Vogais\bin\Debug\Exe_04_Vogais.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_04_Vogais\obj\Debug\Exe_04_Vogais.csprojAssemblyReference.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_04_Vogais\obj\Debug\Exe_04_Vogais.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_04_Vogais\obj\Debug\Exe_04_Vogais.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_04_Vogais\obj\Debug\Exe_04_Vogais.pdb
