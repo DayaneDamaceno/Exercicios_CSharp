@@ -1,0 +1,6 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_05_NomeInvertido\bin\Debug\Exe_05_NomeInvertido.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_05_NomeInvertido\bin\Debug\Exe_05_NomeInvertido.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_05_NomeInvertido\bin\Debug\Exe_05_NomeInvertido.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_05_NomeInvertido\obj\Debug\Exe_05_NomeInvertido.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_05_NomeInvertido\obj\Debug\Exe_05_NomeInvertido.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_05_NomeInvertido\obj\Debug\Exe_05_NomeInvertido.pdb
