@@ -1,0 +1,6 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_08_ValidarEmail\bin\Debug\Exe_08_ValidarEmail.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_08_ValidarEmail\bin\Debug\Exe_08_ValidarEmail.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_08_ValidarEmail\bin\Debug\Exe_08_ValidarEmail.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_08_ValidarEmail\obj\Debug\Exe_08_ValidarEmail.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_08_ValidarEmail\obj\Debug\Exe_08_ValidarEmail.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_08_ValidarEmail\obj\Debug\Exe_08_ValidarEmail.pdb
