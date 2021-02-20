@@ -1,0 +1,6 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_12_Media\bin\Debug\Exe_12_Media.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_12_Media\bin\Debug\Exe_12_Media.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_12_Media\bin\Debug\Exe_12_Media.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_12_Media\obj\Debug\Exe_12_Media.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_12_Media\obj\Debug\Exe_12_Media.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_12_Media\obj\Debug\Exe_12_Media.pdb
