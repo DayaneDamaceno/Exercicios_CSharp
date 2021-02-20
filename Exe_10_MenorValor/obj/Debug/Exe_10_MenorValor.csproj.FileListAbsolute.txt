@@ -1,0 +1,6 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_10_MenorValor\bin\Debug\Exe_10_MenorValor.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_10_MenorValor\bin\Debug\Exe_10_MenorValor.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_10_MenorValor\bin\Debug\Exe_10_MenorValor.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_10_MenorValor\obj\Debug\Exe_10_MenorValor.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_10_MenorValor\obj\Debug\Exe_10_MenorValor.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_10_MenorValor\obj\Debug\Exe_10_MenorValor.pdb
