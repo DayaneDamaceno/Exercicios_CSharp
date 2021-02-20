@@ -1,0 +1,7 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_06_MetodosString\bin\Debug\Exe_06_MetodosString.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_06_MetodosString\bin\Debug\Exe_06_MetodosString.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_06_MetodosString\bin\Debug\Exe_06_MetodosString.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_06_MetodosString\obj\Debug\Exe_06_MetodosString.csprojAssemblyReference.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_06_MetodosString\obj\Debug\Exe_06_MetodosString.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_06_MetodosString\obj\Debug\Exe_06_MetodosString.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_06_MetodosString\obj\Debug\Exe_06_MetodosString.pdb
