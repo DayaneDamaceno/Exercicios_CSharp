@@ -20,6 +20,11 @@ namespace Exe_05_NomeInvertido
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Esse método tem como objetivo inverter um texto
+        /// </summary>
+        /// <param name="texto">O texto a ser invertido</param>
+        /// <returns>O texto invertido</returns>
         static string TextoInvertido(string texto)
         {
             string textoInvertido = "";

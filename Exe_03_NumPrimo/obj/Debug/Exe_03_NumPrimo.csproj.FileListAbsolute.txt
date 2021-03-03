@@ -4,3 +4,4 @@ E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_03_NumPrimo\bin\Debug\Ex
 E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_03_NumPrimo\obj\Debug\Exe_03_NumPrimo.csproj.CoreCompileInputs.cache
 E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_03_NumPrimo\obj\Debug\Exe_03_NumPrimo.exe
 E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_03_NumPrimo\obj\Debug\Exe_03_NumPrimo.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_03_NumPrimo\obj\Debug\Exe_03_NumPrimo.csprojAssemblyReference.cache

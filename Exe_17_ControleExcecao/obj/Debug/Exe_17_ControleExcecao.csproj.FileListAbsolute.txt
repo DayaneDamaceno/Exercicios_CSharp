@@ -1,0 +1,7 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_17_ControleExcecao\bin\Debug\Exe_17_ControleExcecao.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_17_ControleExcecao\bin\Debug\Exe_17_ControleExcecao.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_17_ControleExcecao\bin\Debug\Exe_17_ControleExcecao.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_17_ControleExcecao\obj\Debug\Exe_17_ControleExcecao.csprojAssemblyReference.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_17_ControleExcecao\obj\Debug\Exe_17_ControleExcecao.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_17_ControleExcecao\obj\Debug\Exe_17_ControleExcecao.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\Exercícios\Exe_17_ControleExcecao\obj\Debug\Exe_17_ControleExcecao.pdb
