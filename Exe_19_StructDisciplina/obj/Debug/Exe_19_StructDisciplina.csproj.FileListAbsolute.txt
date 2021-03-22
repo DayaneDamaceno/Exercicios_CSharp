@@ -1,0 +1,7 @@
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_19_StructDisciplina\bin\Debug\Exe_19_StructDisciplina.exe.config
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_19_StructDisciplina\bin\Debug\Exe_19_StructDisciplina.exe
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_19_StructDisciplina\bin\Debug\Exe_19_StructDisciplina.pdb
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_19_StructDisciplina\obj\Debug\Exe_19_StructDisciplina.csprojAssemblyReference.cache
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_19_StructDisciplina\obj\Debug\Exe_19_StructDisciplina.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_19_StructDisciplina\obj\Debug\Exe_19_StructDisciplina.exe
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_19_StructDisciplina\obj\Debug\Exe_19_StructDisciplina.pdb

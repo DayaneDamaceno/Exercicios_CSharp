@@ -1,0 +1,6 @@
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_20_SistemaAcademico\bin\Debug\Exe_20_SistemaAcademico.exe.config
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_20_SistemaAcademico\bin\Debug\Exe_20_SistemaAcademico.exe
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_20_SistemaAcademico\bin\Debug\Exe_20_SistemaAcademico.pdb
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_20_SistemaAcademico\obj\Debug\Exe_20_SistemaAcademico.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_20_SistemaAcademico\obj\Debug\Exe_20_SistemaAcademico.exe
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\Exercícios\Exe_20_SistemaAcademico\obj\Debug\Exe_20_SistemaAcademico.pdb
