@@ -1,0 +1,6 @@
+ana maria|5000
+pedro|680
+miguel|9812,33
+daniela camargo|2323,11
+carla peres|68000
+silvio santos|205000,11

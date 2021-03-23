@@ -1,0 +1,13 @@
+C:\AulaFTT\2021-S1\AlgII\EX_21\EX_21\bin\Debug\EX_21.exe.config
+C:\AulaFTT\2021-S1\AlgII\EX_21\EX_21\bin\Debug\EX_21.exe
+C:\AulaFTT\2021-S1\AlgII\EX_21\EX_21\bin\Debug\EX_21.pdb
+C:\AulaFTT\2021-S1\AlgII\EX_21\EX_21\obj\Debug\EX_21.csproj.CoreCompileInputs.cache
+C:\AulaFTT\2021-S1\AlgII\EX_21\EX_21\obj\Debug\EX_21.exe
+C:\AulaFTT\2021-S1\AlgII\EX_21\EX_21\obj\Debug\EX_21.pdb
+C:\AulaFTT\2021-S1\AlgII\EX_21 - Com métodos e arq. texto\EX_21\bin\Debug\EX_21.exe.config
+C:\AulaFTT\2021-S1\AlgII\EX_21 - Com métodos e arq. texto\EX_21\bin\Debug\EX_21.exe
+C:\AulaFTT\2021-S1\AlgII\EX_21 - Com métodos e arq. texto\EX_21\bin\Debug\EX_21.pdb
+C:\AulaFTT\2021-S1\AlgII\EX_21 - Com métodos e arq. texto\EX_21\obj\Debug\EX_21.csprojAssemblyReference.cache
+C:\AulaFTT\2021-S1\AlgII\EX_21 - Com métodos e arq. texto\EX_21\obj\Debug\EX_21.csproj.CoreCompileInputs.cache
+C:\AulaFTT\2021-S1\AlgII\EX_21 - Com métodos e arq. texto\EX_21\obj\Debug\EX_21.exe
+C:\AulaFTT\2021-S1\AlgII\EX_21 - Com métodos e arq. texto\EX_21\obj\Debug\EX_21.pdb
